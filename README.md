@@ -12,6 +12,8 @@ product_name VARCHAR(200),
 product_price INT(11) 
 )ENGINE=INNODB;
 ```
+### Pesyaratan
+Download dan instal node js dan npm di global 
 ### Instal Dependencies
 membuat package.json di dalam folder :
 ```
@@ -24,4 +26,8 @@ Dependencies yang dibutuhkan :
 * hbs (Template Engine)
 ```
 npm install --save express mysql body-parser hbs
+```
+Jalankan Aplikasi "index.js" dengan perintah :
+```
+node index.js
 ```
