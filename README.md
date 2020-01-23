@@ -1,3 +1,6 @@
 # nodejs-crud-bootstrap
 ### Database mysql di XAMPP
-Di sini menggunkana database mysql di xampp 
+untuk membuat database baru cukup mengetikkan perinta :
+```
+CREATE DATABASE crud;
+```
