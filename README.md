@@ -1,2 +1,3 @@
 # nodejs-crud-bootstrap
-# install depedency
+## install Database
+### Database mysql di XAMPP
